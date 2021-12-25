@@ -56,7 +56,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikoafianando&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/ikoafianando">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ikoafianando&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikoafianando&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/ikoafianando/openapi-todolist-javascript-client">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ikoafianando&repo=openapi-todolist-javascript-client&theme=dark" />
